@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/automate-topics/static/css/main.b7d1e4b5.css",
+    "main.js": "/automate-topics/static/js/main.a36d2440.js",
+    "static/js/787.a86f0f13.chunk.js": "/automate-topics/static/js/787.a86f0f13.chunk.js",
+    "static/media/wood_image.jpeg": "/automate-topics/static/media/wood_image.8efa50faa50dce17fc79.jpeg",
+    "index.html": "/automate-topics/index.html",
+    "main.b7d1e4b5.css.map": "/automate-topics/static/css/main.b7d1e4b5.css.map",
+    "main.a36d2440.js.map": "/automate-topics/static/js/main.a36d2440.js.map",
+    "787.a86f0f13.chunk.js.map": "/automate-topics/static/js/787.a86f0f13.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7d1e4b5.css",
+    "static/js/main.a36d2440.js"
+  ]
+}
